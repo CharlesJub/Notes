@@ -5,5 +5,5 @@ timestamp() {
   date /T
 }
 git commit -am "Regular auto-commit $(timestamp)"
-git push
+git push orgin master
 pause
