@@ -8,3 +8,5 @@ cd /c/Users/charl/Notes
 git add --all
 git commit -am "Regular auto-commit"
 git push origin master
+
+pause
