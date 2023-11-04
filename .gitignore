@@ -1,5 +1,6 @@
-*.bat
-
 100 Personal/
 
 trash/
+
+autocommit.bat
+autocommit.vbs
