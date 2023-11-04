@@ -19,6 +19,11 @@ A list of all the folders in my note taking system
 ### 124 Quarterly
 ### 125 Yearly
 ## 130 Journal
+### 131 Daily
+### 132 Weekly
+### 133 Monthly
+### 134 Quarterly
+### 135 Yearly
 ## 140 People
 ## 150 Passwords
 ## 160 Achievements
