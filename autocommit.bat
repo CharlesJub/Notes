@@ -6,3 +6,4 @@ timestamp() {
 }
 git commit -am "Regular auto-commit $(timestamp)"
 git push
+pause
