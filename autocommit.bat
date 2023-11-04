@@ -1,9 +1,11 @@
+@echo off
 #!/bin/sh
-cd C:/Users/charl/Notes
+cd /c/Users/charl/Notes
 git add --all
+
 timestamp() {
-  date /T
+  date +"at %H:%M:%S on %mm-%dd-%yy"
 }
+
 git commit -am "Regular auto-commit $(timestamp)"
 git push origin master
-pause
