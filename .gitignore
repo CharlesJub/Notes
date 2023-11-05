@@ -1,9 +1,4 @@
-100 Personal/
-
-trash/
-script/
+Private/
 
 autocommit.bat
 autocommit.vbs
-
-notes.sqlite
