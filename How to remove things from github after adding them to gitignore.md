@@ -1,0 +1,4 @@
+#git
+
+`git rm --cached filename`
+`git rm --cached -r folder/`
