@@ -1,4 +1,4 @@
-Tags: #video/inbox , #coding/python 
+Tags: #video/watched , #coding/python 
 
 Source: https://www.youtube.com/watch?v=8OKTAedgFYg
 
@@ -27,3 +27,4 @@ Save memory with generators. Generators only produce one item at a time.
 
 Use `dict.get()` to get items from a dictionary. When the item is empty, the `.get()` method will return a default value of None. This can be changed with `.setdefault()`
 
+Merge dictionaries with `merged_dict = {**d1, **d2}`
