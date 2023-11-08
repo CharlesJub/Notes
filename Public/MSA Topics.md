@@ -1,21 +1,21 @@
 #MSA
-- [[Analysis of Variance (ANOVA)]]
-- [[Confidence Intervals]]
-- [[Correlation]]
-- [[Data Collection / Sampling]]
+- [[Analysis of Variance (ANOVA)]] - Stats
+- [[Confidence Intervals]] - Stats
+- [[Correlation]] - Stats
+- [[Data Collection / Sampling]] - Stats
 - [[Eigenvalues / Eigenvectors]]
 - [[Gauss-Jordan Elimination]]
-- [[Hypothesis Testing]]
-- [[Least Squares Estimation / Normal Equation]]
+- [[Hypothesis Testing]] - Stats
+- [[Least Squares Estimation / Normal Equation]] - Stats
 - [[Matrix Manipulation]]
 - [[Multicollinearity]]
-- [[Multiple Linear Regression]]
-- [[Normal & Binomial Distributions]]
-- [[Probability]]
+- [[Multiple Linear Regression]] - Stats
+- [[Normal & Binomial Distributions]] - Stats
+- [[Probability]] - Stats
 - [[Residual Diagnostics]]
-- [[Sampling Distributions / Central Limit Theorem]]
-- [[Simple Linear Regression]]
+- [[Sampling Distributions / Central Limit Theorem]] - Stats
+- [[Simple Linear Regression]] - Stats
 - [[Solving Systems of Linear Equations]]
 - [[Variable Reduction through Eigenvalues]]
-- [[Variable Selection]]
+- [[Variable Selection]] - Stats
 
