@@ -8,14 +8,14 @@
 - [[Hypothesis Testing]] - Stats
 - [[Least Squares Estimation / Normal Equation]] - Stats
 - [[Matrix Manipulation]]
-- [[Multicollinearity]]
+- [[Multicollinearity]] - Stats
 - [[Multiple Linear Regression]] - Stats
 - [[Normal & Binomial Distributions]] - Stats
 - [[Probability]] - Stats
-- [[Residual Diagnostics]]
+- [[Residual Diagnostics]] - Stats
 - [[Sampling Distributions / Central Limit Theorem]] - Stats
 - [[Simple Linear Regression]] - Stats
 - [[Solving Systems of Linear Equations]]
 - [[Variable Reduction through Eigenvalues]]
-- [[Variable Selection]] - Stats
+- [[Variable Selection]]
 
