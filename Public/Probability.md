@@ -32,8 +32,24 @@ Question: Why is it restrictive and what assumptions does it rely on?
 Equation: 
 ![[Pasted image 20231108143614.png]]
 
-
+If you can't find the probability of something easily, try to find the complement.
+- Naive requires the set to be finite. 
+- Also leads to the argument of either it will happen or it won't
+- Some important type of problems where naive definition is applicable:
+	- When there is symmetry. Like a coin or die. 
+	- When the outcomes are equally likely by design. Like a simple random sample
+- 1.4 How to Count
+	- Multiplication rule: when trying to determine the total number of outcome you can multiply the choices. Example: Two cone types {Waffle, Cake} and three flavors {vanilla, chocolate, strawberry} you have $2 * 3 = 6$ 6 choices
+		- Rule doesn't apply if their is limitations on a combination. 
 # Recall
-## 2023-11-08 15:12
+## 2023-11-08 16:49
+∩: used for intersect. Example: A ∩ B means the event is both A and B.
+∪: used for union. Example: A ∪ B means the event is A or B. 
+$A^c$: means the opposite
+De Morgan's Law:
+$(A ∪ B)^c = A^c ∩ B^c$
+In human language: if an event isn't A or B it can also be said that the event isn't A and isn't B. 
+
+Naive probability: The number of outcomes for and event divided by the total number of outcomes. $\frac{|A|}{|S|}$
 
 
