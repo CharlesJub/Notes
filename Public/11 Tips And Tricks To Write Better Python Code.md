@@ -23,4 +23,7 @@ sorted_data = sorted(data, key=lambda x: x["age"])
 
 Store unique values with sets.
 
-Save memory with generators. Gener
+Save memory with generators. Generators only produce one item at a time.
+
+Use `dict.get()` to get items from a dictionary. When the item is empty, the `.get()` method will return a default value of None. This can be changed with `.setdefault()`
+
