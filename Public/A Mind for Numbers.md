@@ -27,4 +27,4 @@ I think this is alluding to the diffuse mode of learning. Where you learn some t
 
 > Surprisingly, your brain can also work on a problem even while you are sleeping and are not aware of anything. But it does this **only if you concentrate on trying to solve the problem before falling asleep.**
 
-I think this is alluding to the relationship between focus mode and diffuse mode 
+I think this is alluding to the relationship between focus mode and diffuse mode.
