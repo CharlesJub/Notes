@@ -16,9 +16,9 @@ isbn13: 9780399165245
 isbn10: 039916524X
 ---
 # Notes
+
 > The Law of Serendipity: Lady Luck favors the one who
 > tries
-
 
 ## Foreword
 > Henri Poincaré was a nineteenth-century mathematician who once described how he cracked a difficult mathematical problem that he had been intensively working on for weeks without success. **He took a vacation.**
