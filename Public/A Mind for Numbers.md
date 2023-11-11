@@ -28,3 +28,22 @@ I think this is alluding to the diffuse mode of learning. Where you learn some t
 > Surprisingly, your brain can also work on a problem even while you are sleeping and are not aware of anything. But it does this **only if you concentrate on trying to solve the problem before falling asleep.**
 
 I think this is alluding to the relationship between focus mode and diffuse mode.
+
+## Preface
+> They most commonly use the strategy of _repeated reading_—simply reading through books or notes over and over. We and other researchers have found that **this passive and shallow strategy often produces minimal or no learning.**
+
+
+> We don’t engage in passive rereading because we are dumb or lazy. We do it because we fall prey to a cognitive illusion.
+
+Interesting that the ability to process what you read is not a sign that you have fully learned the information from the book.
+
+## Chapter 1: Open the Door
+Author hated math. She liked other things like language and she had confidence and interest when learning these topics and so she spent more time learning them. 
+
+>the better I got, the more I enjoyed what I was doing. And the more I enjoyed what I was doing, the more time I spent on it. My success reinforced my desire to practice, and that built more success.
+
+> I reflected on the progress of my career and realized that I’d followed my inner passions without also being open to developing new ones. As a consequence, I’d inadvertently pigeonholed myself.
+
+I think this is an important thing to avoid. In my case, I like sports analytics, but I have effectively pigeonholed myself into only looking for work in that field with my projects. 
+
+## Chapter 2: Easy Does It
