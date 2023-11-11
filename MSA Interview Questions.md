@@ -1,0 +1,2 @@
+- How do you foster community in the program? I know the cohort system helps with that, but beyond that what other ways?
+- 
