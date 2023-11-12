@@ -47,3 +47,22 @@ Author hated math. She liked other things like language and she had confidence a
 I think this is an important thing to avoid. In my case, I like sports analytics, but I have effectively pigeonholed myself into only looking for work in that field with my projects. 
 
 ## Chapter 2: Easy Does It
+> Being able to toggle your thinking—getting a glimpse of what you are learning before returning later to more fully understand what’s going on, is itself one of the main ideas in the book!
+
+ **Actionable Advice**:  Take a picture walk of a chapter. Taking a quick glance ahead helps organize thoughts.
+
+Focused Mode: Highly attentive state of thinking
+
+Diffuse Mode: More relaxed mode of thinking
+
+You're not consciously in both at the same time, but the diffuse mode can work in the background on something you're not actively focusing on.
+
+Diffuse mode is associated with "big-picture"
+
+> Diffuse-mode insights often flow from preliminary thinking that’s been done in the focused mode.
+
+In the focused mode  you can get stuck in one area of thought leading to frustration and inability to solve a problem. Diffuse mode allows thoughts to span more approaches and is vital in problem solving.  
+
+Einstellung effect: when you settle on solving a problem with a previously known solution, leading away from the best solution being discovered.
+
+# Left off: "Understanding how to obtain _real_ solutions is important, not only in math and science problem solving, but for life in general. For example, a little research"
