@@ -1,3 +1,15 @@
+An estimated range of values that seem reasonable based on what we've observed. Its center is still the sample mean, but there is room for uncertainty.
+
+Z-score: tells the distance between the mean of a distribution and a data point in standard deviations
+
+CI can't be 100% because it will need to incapsulate everything 
+
+Want a CI that is narrow enough to be useful, but wide enough that the true population mean is usually inside the CI
+
+T-distribution: A continuous probability distribution that's unimodal; it's a useful way to represent sampling distributions
+
+
+
 
 
 ## Bootstrap 
@@ -23,14 +35,10 @@ Because the 95% confidence intervals do not overlap, we know that there is a sta
 If the confidence intervals overlap, you still have to do you [[t-test]]
 
 
-## Example problem
-1. The average test scores in a physics class is normally distributed with a standard deviation of 5.4. 50 scores with a sample mean of 79 were selected at random. 
-	(a) Find a 95% confidence interval for the population mean test score. 
-	(b) What is the value of the margin of error? 
-
 
 
 ## Sources:
 https://www.youtube.com/watch?v=TqOeMYtOc1w
 https://www.youtube.com/watch?v=DT-fPG0Hff8
-
+https://www.youtube.com/watch?v=yDEvXB6ApWc
+https://medium.com/@benjaminobi/math-for-data-science-beginners-confidence-intervals-580d9b5b3975
