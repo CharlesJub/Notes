@@ -65,4 +65,43 @@ In the focused mode  you can get stuck in one area of thought leading to frustra
 
 Einstellung effect: when you settle on solving a problem with a previously known solution, leading away from the best solution being discovered.
 
-# Left off: "Understanding how to obtain _real_ solutions is important, not only in math and science problem solving, but for life in general. For example, a little research"
+> **If you are trying to understand or figure out something new, your best bet is to turn off your precision-focused thinking and turn on your “big picture” diffuse mode**
+
+So, the best way to learn something new is to spend a little time getting it into your brain then not focusing on it to let diffuse mode work. 
+
+*How do you know when to get back to the topic after letting diffuse mode work?* 
+
+> Long enough to latch on to a new, more fruitful approach
+
+I guess if you aren't finding success with diffuse mode in finding a new approach you should go back with focus mode to get more context and insight. 
+
+> The harder you push your brain to come up with something creative, the less creative your ideas will be.
+
+I think this is a good reason for why procrastination is bad, beyond the obvious problems. Sometimes you make yourself think the pressure is allowing you to do your best work, but it is just allowing you to produce the most work through stress. Even if you're a serial procrastinator, it's important to look at the material early to let diffuse mode come up with some ways of attacking the problem. 
+
+> **To** **learn about and be creative in math and science, we** **need to strengthen and use both the focused and diffuse modes.**
+
+*How do we go about strengthening each mode of thinking? Is it just from repeated use or is there training specific to each mode?*
+
+> Brighter students, in particular, can have difficulty in this way—their breezing through high school leaves them no reason to think that being confused is normal and necessary.
+
+I think this is a very common thing with the Honors and AP systems that are currently in schools. A lot of times being in these classes are more about the amount of work your willing to do and not how good you are in these topics. 
+
+> Articulating your question is 80 percent of the battle
+
+That is why it is so valuable to be able to put the information in your own words
+
+> One mode will process the information it receives and then send the result back to the other mode.
+
+Interesting. I thought it was more of the focus sending info to the diffuse, but it makes sense for diffuse to also send info back about potential approaches to the problem.
+
+**Actionable Advice**: Pomodoro Technique 25 minutes of focused work, 5 minutes of relaxation.
+
+They are fine with social media and using your phone. Some Pomodoro people are against that stating that it is not effective relaxation. 
+
+**Actionable Advice**: Imagine you at the end of the day, you're reflecting on the most important task you completed that day. Write what that task would be. Then work on it. Try to complete three 25 minute sessions. Better yet write down things you want to work on tomorrow. This allows your diffuse more to prepare.
+
+### Summing in up
+
+
+
