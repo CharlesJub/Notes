@@ -102,6 +102,31 @@ They are fine with social media and using your phone. Some Pomodoro people are a
 **Actionable Advice**: Imagine you at the end of the day, you're reflecting on the most important task you completed that day. Write what that task would be. Then work on it. Try to complete three 25 minute sessions. Better yet write down things you want to work on tomorrow. This allows your diffuse more to prepare.
 
 ### Summing in up
+- Two processes for thinking: focused and diffuse
+- You only use one at a time
+- It is normal to not understand things the first time we focus on them
+- To learn new things we need to start by focusing, then drop that focus and let diffuse mode work
+- Einstellung effect is not understanding a problem or concept because you become fixed on a flawed approach
+- Switching modes helps combat the Einstellung effect
+
+### Recall
+There are two modes of thinking. Focus and diffuse. To learn something new you need to focus first to get that information into your brain and then turn your focus away to process that infomation. Diffuse mode is about big picture thinking. It helps you produce different approaches to a problem. This is important because there is the Einstellung effect. The Einstellung effect is when you get stuck on a problem because you are stuck in a flawed approach. Diffuse mode combats this. A simple technique for combating procrastination is the pomodoro technique. 25 minutes of focused work 5 minutes of break. You can expand this technique to a full day by writing down what tasks you want to complete and doing 3 sessions towards that goal. The act of writing down the task helps the start of using diffuse mode.
+
+#### Things I missed: 
+It's okay to get stuck that is normal. You can only use one mode at a time. It's normal to not understand things the first time we see them. 
+
+### Enhance your learning
+1. How would you recognize when you are in the diffuse mode? How does it feel to be in the diffuse mode?
+	I think you are in the diffuse mode when you are sporadically thinking about things that you have focused on recently. It is relaxing to be in the diffuse mode. There is no pressure to think about any specific topic. When you do think of an idea you can dig into it as much as you like. You can also jump to other ideas without care.
+2. When you are consciously thinking of a problem, which mode is active and which is blocked? What can you do to escape this blocking?
+	When you  are thinking of a problem you are using Focused mode and blocking Diffuse mode. To escape the blocking of the diffuse mode you can take a break and not focus on a specific thing.
+3. Recall an episode where you experienced the _Einstellung_ effect. How were you able to change your thinking to get past the preconceived, but erroneous, notion?
+	I don't have an exact example, but this has definitely happened to me while coding. I can't figure out a problem only to think of a way to solve it in the shower or on a walk.  
+4. Explain how the focused and diffuse modes might be equated to an adjustable beam on a flashlight. When can you see farther? When can you see more broadly, but less far?
+	The focused mode is like a narrow beam of light. You can see farther but only a small area. The diffuse mode is a wider beam of light. You can see more but in less detail.
+5. Why is procrastination sometimes a special challenge for those who are studying math and science?
+	Procrastination is a problem because you only allow yourself to do focused-mode learning. This means you create a bad foundation for future learning. And this is important in these topics because each idea builds on past ideas.
 
 
 
+# Ended on : "SHIFTING OUT OF BEING STUCK: INSIGHT FROM NADIA NOUI-MEHIDI, A SENIOR STUDYING ECONOMICS"
