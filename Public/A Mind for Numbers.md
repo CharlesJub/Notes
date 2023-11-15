@@ -129,4 +129,12 @@ It's okay to get stuck that is normal. You can only use one mode at a time. It's
 
 
 
-# Ended on : "SHIFTING OUT OF BEING STUCK: INSIGHT FROM NADIA NOUI-MEHIDI, A SENIOR STUDYING ECONOMICS"
+
+Tips from someone that has improved their learning:
+- Read the book
+- Skim first then read in detail
+- Read multiple times (not in a row)
+- If you still don't understand find other sources to see different points of view 
+- Find a task that you think clearly in (this persons task is driving). Something that keeps you somewhat occupied to make sure you don't get bored or distracted.
+
+## Chapter 3: Learning is Creating
