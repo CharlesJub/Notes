@@ -138,3 +138,23 @@ Tips from someone that has improved their learning:
 - Find a task that you think clearly in (this persons task is driving). Something that keeps you somewhat occupied to make sure you don't get bored or distracted.
 
 ## Chapter 3: Learning is Creating
+There is power in knowing how to effectively switch from focused to diffuse mode.
+
+Rule 1 for entering diffuse mode: Do something else that frees your brain from thinking about the problem. 
+
+Going focus -> diffuse generally takes several hours. To use time effectively spend a little time each day on multiple topics instead of planning out large chunks for one topic.
+
+Breaks are powerful. 
+
+Everyone has different methods for relaxing. Howard Gruber: bed, bath, bus, Alexander Williamson: solitary walks
+
+Falling asleep is a fool-proof way to enter diffuse mode.
+
+> There is a deep connection between technical, scientific, and artistic creativity.
+
+Math and science are creative in the fact that each rule or theory has many potential approaches or ways of understanding them. You need to be creative to come up with them
+
+Creativity is about using previous knowledge in a new way.
+
+# Left off: Edison’s story reminds us of something else. _We learn a_ _great deal from our failures in math and science._
+
