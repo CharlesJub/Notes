@@ -158,3 +158,42 @@ Creativity is about using previous knowledge in a new way.
 
 # Left off: Edison’s story reminds us of something else. _We learn a_ _great deal from our failures in math and science._
 
+> Know that you are making progress with each mistake you catch when trying to solve a problem—finding errors should give you a sense of satisfaction.
+
+> “I have not failed. I’ve just found 10,000 ways that won’t work.” - Edison
+
+Start early on your assignment and keep your working sessions short.
+
+Sleep is the best form of diffuse mode
+
+Diffuse mode isn't a substitute for hard focused thinking, but it is necessary for learning. 
+
+You can only do so much focused mode thinking in a day. 
+
+Potential Diffuse Mode Rewards: 
+- Jog, walk, or swim
+- Drive
+- Shower
+- Music without words
+- Meditate
+- Sleep
+
+In brief segments (they can bring you into focused mode):
+- Video games
+- Reading 
+- Texting
+- TV
+
+Comparing yourself to others can make you feel the need to speed up learning, but that will make your knowledge base weaker.
+
+> Blinking in a vital activity that provides another means of reevaluating a situation
+
+> Figuring out a difficult problem or learning a new concept almost always requires one or more periods when you aren’t consciously working on the problem.
+
+When you are first learning new things don't have a gap larger than a day between focused mode practice. 
+
+When you are stuck try to find another perspective from people you know. 
+
+Learn the basic concepts before talking to someone else so you receive the information better.
+
+# Left off: Introduction to Working and Long-Term Memory
