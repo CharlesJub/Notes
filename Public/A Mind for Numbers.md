@@ -196,4 +196,63 @@ When you are stuck try to find another perspective from people you know.
 
 Learn the basic concepts before talking to someone else so you receive the information better.
 
-# Left off: Introduction to Working and Long-Term Memory
+Working memory is the things that you are working on. Can only hold 4 things. Need to be maintained actively
+
+You keep things in working memories with repetition 
+
+Long term memory is a database. To make sure you can retrieve the information you need to revisit it when you first put the memory into long term memory
+
+Long term memory is where you store fundamentals needed for problem solving 
+
+Spaced repetition: spacing repetition of a topic out over time
+
+To sleep, slow you breathing and don't put pressure on the act of sleeping. Don't sleep too long or you can be groggy
+
+Sleep is a vital part of memory. It erases trivial aspects of memories and strengthens key ideas 
+
+Sleep is a deeper form of diffuse mode. It allows areas of the brain to focus on problem solving instead things that it would normally think about while awake. 
+
+If you go over the material that is difficult you can increase the chance you dream about it. Setting it in mind that you want to dream about a topic also increases you chances.
+
+A sleep-deprived brain can't make the same connections as a well-rested brain
+
+Be ready to write down things that come to you before or after you sleep. Those thoughts can sometimes be of value
+
+### Summing it up
+- Focused mode to get information into the brain
+- Then relax and let diffuse mode make new connections
+- When you are struggling that is a sign to let diffuse mode take over
+- A little every day is the best approach for technical fields.
+- Use pomodoro to combat procrastination
+-  Two memory systems. Working memory is limited to only four items and each item needs to be maintained. Long-term memory can hold lots of items but needs to be maintained by revisiting the items stored.
+- Spaced repetition helps move items from working memory to long-term memory
+- Sleep is an important part of learning. It helps you:
+	- Make neural connections needed for normal thinking processes
+	- Figure out tough problems and find meaning in what you're learning
+	- Strengthen and rehearse the important parts of what you are learning and prune away trivialities.
+
+### Recall: [[2023-11-16]]
+- Get information into the brain with focused mode 
+- Switch to diffuse mode to let the brain make new connections with the information introduced in focused mode
+- If you get stuck it's a sign to relax and let diffuse mode work on the problem for a little bit.
+- A little bit each day is the best approach for math and science
+- Two storage systems in the brain. Working and Long-term
+	- Working memory is limited to four things and needs to constantly be maintained 
+	- Long-term memory takes some time to store things, but is much larger in the amount of things able to be stored. Need to occasionally revisit things in long-term memory to maintain them
+- Sleep is an important part of learning
+	- You need it to make new neural connections
+	- Work through tough problems and find meaning in what is being learned
+	- Strengthen key ideas and wash away unimportant bloat. 
+
+Missed: 
+* Pomodoro to combat procrastination
+* Spaced repetition helps get information from working memory to long-term memory 
+
+### Enhance your learning
+1. Name some activities you would find helpful for switching from focused to diffuse mode.
+
+2. Sometimes you can feel certain you have explored new approaches to analyzing a problem, when you actually haven’t. What can you do to become more actively aware of your thinking processes to help keep yourself open to other possibilities? Should you always keep yourself open to new possibilities?
+
+3. Why is it important to use self-control to make yourself stop doing something? Can you think of times outside studying and academics when this skill might also be important?
+
+4. When you are learning new concepts, you want to review the material within a day so that the initial changes you made in your brain don’t fade away. But your mind often becomes preoccupied with other matters—it’s easy to let several days or more pass before you get around to looking at the material. What kind of action plan could you develop to ensure that you review important new material in a timely fashion?
