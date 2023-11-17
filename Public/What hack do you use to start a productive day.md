@@ -11,4 +11,4 @@ Think about how I spend my day and find 4 2 hour chunks that I can block out. Ad
 > Postpone dopamine- no phone or browsing, I can pull even 5h of high productivity like this daily, as a bonus when the workday is over I don’t feel such a big urge to doomscroll anymore
 
 ### What can I do now? 
-Create a habit reminder before bed to 
+	Create a habit reminder before bed to 
