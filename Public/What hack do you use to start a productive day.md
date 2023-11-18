@@ -52,5 +52,8 @@ I think this is a joke, but I think there is some value in this idea. I've read 
 - Meditation
 
 # Recap
-
+- Break days in to chunks and don't let one bad chunk ruin the rest
+- Don't start your day with high dopamine activities
+- Have a work session starting ritual
+- Every once in a while, remind yourself what self-respect looks like 
 
