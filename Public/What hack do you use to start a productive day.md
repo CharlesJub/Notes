@@ -37,14 +37,21 @@ Think about what self respect looks like for me. Order The Middle Finger Project
 ## Random Number 
 > I draw a random number. All decisions where I have multiple choices will be taken according to this number. Saves lot of time and decision fatigue across the day. No more routine.
 
-I think this is a joke, but I think there is some value in this idea. I've read in some places that every day you can only use so much brain power thinking so it is best to reduce the amount of time you spend on trivial tasks. One suggestion for this is to repeat the same thing every day. Wear the same clothes, eat the same food, etc. This random number joke could be useful for  
+I think this is a joke, but I think there is some value in this idea. I've read in some places that every day you can only use so much brain power thinking so it is best to reduce the amount of time you spend on trivial tasks. One suggestion for this is to repeat the same thing every day. Wear the same clothes, eat the same food, etc. This random number joke could be useful for limiting the amount of time you spend thinking about trivial things while also keeping things fresh-ish.
 
 
-## Normal Tips:
+
+## Small and Common Tips:
 - Coffee
 - Water 
 - Workout
-- Write 3 things you must do and 2 self-care actions
+- Write 3 things you must do and 2 self-care actions. Journal
+- Sleep
+- Read
+- Shower
+- Meditation
+
+# Recap
 
 
 
