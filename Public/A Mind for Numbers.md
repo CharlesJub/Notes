@@ -156,8 +156,6 @@ Math and science are creative in the fact that each rule or theory has many pote
 
 Creativity is about using previous knowledge in a new way.
 
-# Left off: Edison’s story reminds us of something else. _We learn a_ _great deal from our failures in math and science._
-
 > Know that you are making progress with each mistake you catch when trying to solve a problem—finding errors should give you a sense of satisfaction.
 
 > “I have not failed. I’ve just found 10,000 ways that won’t work.” - Edison
@@ -250,9 +248,28 @@ Missed:
 
 ### Enhance your learning
 1. Name some activities you would find helpful for switching from focused to diffuse mode.
+Walking without a podcast or audiobook and showers are the two activities that I feel the diffuse mode working the most. Diffuse mode working to me is when random solutions pop into my mind. 
 
 2. Sometimes you can feel certain you have explored new approaches to analyzing a problem, when you actually haven’t. What can you do to become more actively aware of your thinking processes to help keep yourself open to other possibilities? Should you always keep yourself open to new possibilities?
+I think the best ways to be aware of your thinking processes are to record them and to understand them entirely. I think recording them is as simple as writing the idea or approach down somewhere you will be able to look back on. I think a great way to understand the approach is to try to explain it. 
+
+I think it is important to keep yourself open to new possibilities, but there are sometimes when new possibilities are not worth your time. When the ideas that are being presented are not rational and have no solid backing I think it is alright to ignore until more evidence is generated (I'm thinking things like flat earth theories).
 
 3. Why is it important to use self-control to make yourself stop doing something? Can you think of times outside studying and academics when this skill might also be important?
+Using self-control to make yourself stop doing something is important because it is part of what makes us human. Having self-control is having free will. Addictions are the biggest times outside of studying and academics I can think of. 
 
-4. When you are learning new concepts, you want to review the material within a day so that the initial changes you made in your brain don’t fade away. But your mind often becomes preoccupied with other matters—it’s easy to let several days or more pass before you get around to looking at the material. What kind of action plan could you develop to ensure that you review important new material in a timely fashion?
+5. When you are learning new concepts, you want to review the material within a day so that the initial changes you made in your brain don’t fade away. But your mind often becomes preoccupied with other matters—it’s easy to let several days or more pass before you get around to looking at the material. What kind of action plan could you develop to ensure that you review important new material in a timely fashion?
+Using software is the best approach I have found to combat this. Anki is a great tool for spacing out recall. It uses flashcards so it leans towards rote memorization, but making a flash card that says "Recall as much as you can about X" is a great way to use the concept of active recall and spaced repetition.
+
+
+
+## Chapter 4: Chunking and avoiding illusions of competence
+> **Focused practice and repetition**—the creation of memory traces—are also at the heart of an impeccably played golf stroke, a master chef’s practiced flip of an omelet, or a basketball free throw.
+
+Learning is a hierarchy. Understanding of all complex things start out as learning of the basic components.
+
+Solomon Shereshevsky had perfect memory, but he also had a problem. He never had to see the big picture ideas because he could fully remember the smaller pieces.
+
+Imagine you could memorize each piece of a puzzle individually, but you couldn't ever see the full puzzle 
+
+# Left off: Chunks are pieces of information that are bound together through meaning.
