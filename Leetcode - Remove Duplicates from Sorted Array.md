@@ -14,7 +14,7 @@ def removeDuplicates(nums: List[int]) -> int:
 	l = 1 # start the left pointer at 1, the first value doesn't need to be changed
 	for r in range(1, len(nums)):
 		if nums[r] != nums[r-1]:
-			nums[l] = nums[r] # set the 
+			nums[l] = nums[r]
 			l += 1
 	return l
 ```
