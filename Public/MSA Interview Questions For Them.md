@@ -1,0 +1,2 @@
+- How do you foster community in the program? I know the cohort system helps with that, but beyond that what other ways?
+- What does a day of class typically look like? How much time is spent in lectures vs how much time is spent working through problems and working in groups?
