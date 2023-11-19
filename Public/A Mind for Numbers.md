@@ -272,4 +272,42 @@ Solomon Shereshevsky had perfect memory, but he also had a problem. He never had
 
 Imagine you could memorize each piece of a puzzle individually, but you couldn't ever see the full puzzle 
 
-# Left off: Chunks are pieces of information that are bound together through meaning.
+> As it turns out, **one of the first steps toward** **gaining expertise in math and science is to create conceptual** **chunks—mental leaps that unite separate bits of information through meaning.**
+
+> when you are first trying to understand how to work a problem, you have a heavy cognitive load—so it helps to start out with a fully worked-through example.
+
+Basic steps to forming a chunk:
+- Focus you attention on the information you want to chunk
+- Understand the basic idea you are trying to chunk
+- Gain context so you see not just how, but also when to use a chunk
+
+Two ways
+> There is a **bottom-up chunking process** where practice and repetition can help you both build and strengthen each chunk, so you can easily gain access to it when needed.
+
+> And there is a **top-down “big picture” process** that allows you to see where what you are learning fits in.
+
+> My mantra at the end of each class is to tell students to look at the Debit and Credit Rules as well as the Accounting Equation just before they tuck themselves in at night. Let those be the last things they repeat to themselves before falling asleep.
+
+Interesting way to incorporate repetition and sleeping diffuse mode 
+
+> **Attempting to** _recall_ **the material you are trying to learn—retrieval practice—is far more effective than simply rereading the material.**
+
+Illusions of competence: the illusion that the material is in your brain. 
+
+Illusions of competence are caused by the ease of re-reading when compared to recalling the material.
+
+> **This, indeed, is why just _wanting_ to learn the material, and spending a lot of time with it, doesn’t guarantee you’ll actually learn it.** 
+
+This is something that I struggle with. I want to learn a subject so I force myself to read textbooks on the topic without testing myself. 
+
+> **“Intention to learn is helpful only if it leads to the use of good learning strategies.”**
+
+When marking text look for main ideas. Will do this for the rest of this book
+
+Recall is more effective. Rereading can be useful as a spaced repetition exercise. 
+
+Doing the work on your own builds better foundations for memory. 
+
+While practicing spaced repetition you want to complete the recall practice before you forget the important information.  This time can increase with every repetition. 
+
+left off: MAKE YOUR KNOWLEDGE SECOND NATURE
