@@ -330,5 +330,44 @@ If you aren't grasping a topic try to work backwards. Find out why the method is
 
 Strengthening an initial learning patter within a day after you first begin forming it is important.
 
-# Left Off: The Importance of Chunking 
+Chunking can be hard to commit to because it can be boring to practice and repeat 
 
+Reading and practicing recall is much more effective than rereading or note taking with diagrams
+
+> The fact is, when learning _any_ new skill or discipline, you need plenty of varied practice with different contexts. This helps build the neural patterns you need to make the new skill a comfortable part of your way of thinking.
+
+> Recalling material when you're outside of you normal environment strengthens your grasp on the idea by viewing it from a different perspective (or a different context)
+
+Interleaving: practice by doing a mixture of different kinds of problems requiring different strategies 
+
+Overlearning: continuing the study or practice after it is well understood
+
+Mixing the problems you solve after you first understand something is a much more effective use of study time then overlearning the same information
+
+It is important to know how to use a problem-solving technique, but it is just as important to know when is the right time to use the technique 
+
+Find some way to mix the problems you are facing. 
+
+# Left off: It’s best to write the initial solution, or diagram, or concept, out by hand.
+
+
+
+# Recall
+## [[2023-11-20]]
+- Two modes of thinking, focused and diffuse mode, *you can only use one at a time*
+- You get information into your brain with focused mode
+- *It is normal to not understand things when you first focus on them*
+- You process that information at a big-picture level with the diffuse mode
+- The switching between the two modes helps combat the ~~Einstelling~~ Einstellung effect
+- ~~Einstelling~~ Einstellung effect is when you get stuck because you are committed to the wrong approach
+- *A little bit every day is the best approach for technical fields *
+- One tip to get into the focused mode is to use pomodoro technique
+- Pomodoro is 25 minutes of focused work and 5 minutes of relaxed break. 
+- The relaxed break is important because it acts as positive reinforcement and it plays the role of the diffuse mode
+- Two forms of memory: working and long-term memory
+- Working memory can only hold 4 things and needs to be on the top of mind
+- Long-term memory can hold many more things, but needs to be initialized and upkept some times
+- A good way to get things from working memory to long-term memory is spaced repetition. Spaced repetition is spreading out your practice over time. In the beginning the space between practice is small, but it can grow over time.
+- *Sleep is important for learning. It helps you make neural connections, figure out tough problems and find meaning in what you're learning, and strengthens key ideas and remove trivial memories. *
+- Chunking is the process of reducing many ideas into one working memory slot by making links within between ideas.
+- 
