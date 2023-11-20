@@ -310,4 +310,25 @@ Doing the work on your own builds better foundations for memory.
 
 While practicing spaced repetition you want to complete the recall practice before you forget the important information.  This time can increase with every repetition. 
 
-left off: MAKE YOUR KNOWLEDGE SECOND NATURE
+Chunking allows you to use less working memory for the same amount of information. A chunk starts out by using all 4 slots, but as you make more connections the number of slots can be reduced. 
+
+You really need to work through a problem to know if you understand it. Looking at a problem and thinking you know it yourself is a common illusion of competence.
+
+**Book Rec: Where Good Ideas Come From**
+
+Creativity comes from having a wide range of knowledge percolating in your mind to spontaneously form novel links. 
+
+> The bigger your chunked mental library, the more easily you will be able to solve problems.
+
+How do you grow your mental library? I guess that is what this book is all about, but I find it hard to hold onto a lot of information. What is the best approach for hold vast amount of info?
+
+The process of chunking gets easier with more experience. 
+
+By chunking you train your brain to recognize types of problems so you tackle them with the right approach.
+
+If you aren't grasping a topic try to work backwards. Find out why the method is being taught. This might give more context to root your learning in
+
+Strengthening an initial learning patter within a day after you first begin forming it is important.
+
+# Left Off: The Importance of Chunking 
+
