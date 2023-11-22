@@ -348,10 +348,25 @@ It is important to know how to use a problem-solving technique, but it is just a
 
 Find some way to mix the problems you are facing. 
 
-# Left off: It’s best to write the initial solution, or diagram, or concept, out by hand.
+### Summing it up
+- Practice helps build strong neural patterns, or conceptual chunks of understanding.
+- To build chunks:
+	- Focused attention
+	- Understanding of the basic idea
+	- Practice to help gain big-picture context
+- Simple recall, trying to remember the key points without looking at the page is one of the best ways to create chunks
 
 
 
+
+### Enhance your learning
+1. How is a chunk related to a memory trace?
+A chunk is related to a memory trace because it is a relation connection between memory traces. It helps strengthen memories by adding context for easier retrieval.
+3. Think of a topic you are passionate about. Describe a chunk involving that topic that was at first difficult for you to grasp but now seems easy.
+Confidence intervals are 
+5. What is the difference between top-down and bottom-up approaches to learning? Is one approach preferable to the other?
+6. Is _understanding_ enough to create a chunk? Explain why or why not.
+7. What is your own most common illusion of competence in learning? What strategy can you use to help avoid falling for this illusion in the future?
 # Recall
 ## [[2023-11-20]]
 - Two modes of thinking, focused and diffuse mode, *you can only use one at a time*
@@ -371,3 +386,30 @@ Find some way to mix the problems you are facing.
 - *Sleep is important for learning. It helps you make neural connections, figure out tough problems and find meaning in what you're learning, and strengthens key ideas and remove trivial memories. *
 - Chunking is the process of reducing many ideas into one working memory slot by making links within between ideas.
 - 
+
+
+## [[2023-11-22]]
+- Two types of thinking: focused and diffuse
+- Focused mode is active when you are actively working with the material
+- Diffuse mode is active when you are relaxed and not focusing on anything in particular
+- Focused mode gets information into your mind and diffuse mode processes that information at the big-picture level.
+- The switching between the two modes helps combat the Einstellung effect. Einstellung is getting stuck on a problem because you are focused on the wrong approach.
+- Two modes of memory: Working and long-term memory
+- Working memory is limited to four items 
+- Long-term memory can hold many more items, but each item needs to be refreshed every once in a while.
+- To get information to long-term memory you can use spaced repetition, the practice of spacing out your study sessions over a period of time. 
+- Sleep is important for memory:
+	- It helps you form new neural connections
+	- It helps see the why in problems
+	- It prunes trivial memories and strengthens key ideas
+- Repeated practice helps you create chunks 
+- Chunks are created by:
+	- Focusing on the problem
+	- Understanding the problem
+	- Practicing
+- Simple recall, or trying to think of the information without the text, is a great way to help form chunks. 
+- Pomodoro technique, 25 minutes working 5 minutes, rest can help combat procrastination 
+- *The break is important for a reward and to engage diffuse mode*
+- It is normal to get stuck when you first try problems
+- If you're having trouble with a problem, step away and let diffuse mode work
+- *A little bit every day is the best approach for technical fields *
