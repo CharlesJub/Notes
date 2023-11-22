@@ -362,11 +362,15 @@ Find some way to mix the problems you are facing.
 ### Enhance your learning
 1. How is a chunk related to a memory trace?
 A chunk is related to a memory trace because it is a relation connection between memory traces. It helps strengthen memories by adding context for easier retrieval.
-3. Think of a topic you are passionate about. Describe a chunk involving that topic that was at first difficult for you to grasp but now seems easy.
-Confidence intervals are 
-5. What is the difference between top-down and bottom-up approaches to learning? Is one approach preferable to the other?
-6. Is _understanding_ enough to create a chunk? Explain why or why not.
-7. What is your own most common illusion of competence in learning? What strategy can you use to help avoid falling for this illusion in the future?
+2. Think of a topic you are passionate about. Describe a chunk involving that topic that was at first difficult for you to grasp but now seems easy.
+
+3. What is the difference between top-down and bottom-up approaches to learning? Is one approach preferable to the other?
+
+4. Is _understanding_ enough to create a chunk? Explain why or why not.
+No. To create a chunk you need to understand, but you also need to actively practice with the challenge at hand 
+5. What is your own most common illusion of competence in learning? What strategy can you use to help avoid falling for this illusion in the future?
+My common illusion of competence is the idea that I know something just from reading it. I can combat this with simple recall and more practice with the material in unique context 
+
 # Recall
 ## [[2023-11-20]]
 - Two modes of thinking, focused and diffuse mode, *you can only use one at a time*
