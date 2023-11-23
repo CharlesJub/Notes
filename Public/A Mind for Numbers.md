@@ -416,4 +416,29 @@ My common illusion of competence is the idea that I know something just from rea
 - *The break is important for a reward and to engage diffuse mode*
 - It is normal to get stuck when you first try problems
 - If you're having trouble with a problem, step away and let diffuse mode work
-- *A little bit every day is the best approach for technical fields *
+- *A little bit every day is the best approach for technical fields*
+
+## [[2023-11-23]]
+- Two types for thinking: focused and diffuse.
+- You get information into your brain with focused mode and you process that information with the diffuse mode
+- To activate diffuse mode you need to relax and not focus intently on any specific thing.
+- Einstling effect is when you get stuck on something because you are locked onto the wrong approach 
+- A good way to combat the Einstiling effect is to switch between focused and diffuse mode.
+- It is okay to get stuck on a hard problem when you first try to solve it. 
+- Use pomodoro technique to combat procrastination. 25 minutes work 5 minutes break. The break is important as a reward and to start diffuse mode thinking. 
+- There are two modes of memory: working memory and long-term memory. 
+- Working memory is limited to 4 items at a time. 
+- Long-term memory can hold more things, but need to be refreshed every once in a while.
+- To get information from working memory to  long term memory use spaced repetition. Spreading out your practice over time.
+- Sleep is good for the memory:
+	- It allows neural connections to form
+	- It helps understand the why of problems
+	- It strengthens important ideas and prunes waste
+- Chunks are formed by repeated practice
+- To from chunks:
+	- Focus on the idea
+	- Understand the idea
+	- Practice the idea
+- *Simple recall, or trying to think of the information without the text, is a great way to help form chunks.*
+- *A little bit every day is the best approach for technical fields*
+- *If you're having trouble with a problem, step away and let diffuse mode work*
