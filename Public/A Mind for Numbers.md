@@ -371,6 +371,43 @@ No. To create a chunk you need to understand, but you also need to actively prac
 5. What is your own most common illusion of competence in learning? What strategy can you use to help avoid falling for this illusion in the future?
 My common illusion of competence is the idea that I know something just from reading it. I can combat this with simple recall and more practice with the material in unique context 
 
+## Chapter 5: Preventing Procrastination
+You shouldn't use willpower to overcome procrastination,
+
+Willpower is a limited resource.
+
+> Very hard to compete in math and science if you wait till the last moment.
+
+This is obvious and I think everyone that procrastinates knows this. It is more about constantly thinking about it in the moment.
+
+Need to master procrastination so we can make use of the focus-diffuse mode relationship
+
+> We procrastinate about things that make us feel uncomfortable
+
+"You spend more time complaining about doing your chores than doing them"
+
+Procrastination is a habit. **How to break the habit?**
+
+> The better you get at something the more you'll enjoy it
+
+> Procrastination is like addiction. It offers temporary excitement and relief from boring reality.
+
+**How can you tackle procrastination as if it was an addiction? Go cold turkey? What would that look like?**
+
+> Researchers have found that procrastination can even become a source of pride as well as an excuse for doing poorly.
+
+What a weird human thing. It is the same for sleep in school. "I only slept like two hours last night."
+
+Procrastination and succeeding can feel like a reward that moves you to keep procrastinating. 
+
+In tiny doses of procrastination it seems fine and you can build up a perceived resistance, but it is still harmful to your health like poison  
+
+### Summing It Up
+- We procrastinate about things that make us feel uncomfortable. But what makes us feel good temporarily isn't necessarily good for us in the long run.
+- Procrastination can be like taking tiny amount of poison. If may not seem harmful at the time. But the long-term effects can be very damaging. 
+
+# Recall tomorrow 
+
 # Recall
 ## [[2023-11-20]]
 - Two modes of thinking, focused and diffuse mode, *you can only use one at a time*
