@@ -406,6 +406,23 @@ In tiny doses of procrastination it seems fine and you can build up a perceived 
 - We procrastinate about things that make us feel uncomfortable. But what makes us feel good temporarily isn't necessarily good for us in the long run.
 - Procrastination can be like taking tiny amount of poison. If may not seem harmful at the time. But the long-term effects can be very damaging. 
 
+## Chapter 6: Zombies Everywhere
+> Habit is an energy saver for us. It allows us to free our mind for other types of activities. 
+
+Habits can vary in length from quick seconds to multi-hour tasks. 
+
+Four parts:
+- Cue: Something that primes action
+- Routine: Thing you do when cued
+- Reward: Reason for doing the routine after being cued
+- Belief: Your acceptance of a habit
+
+> The only place you need to apply will power is to change your reaction to the cue.
+
+Book: The Procrastination Equation by Piers Steel
+
+# Left off: It’s particularly important to realize that giving yourself even a small “attaboy” or “attagirl”
+
 # Recall tomorrow 
 
 # Recall
@@ -472,10 +489,35 @@ In tiny doses of procrastination it seems fine and you can build up a perceived 
 	- It helps understand the why of problems
 	- It strengthens important ideas and prunes waste
 - Chunks are formed by repeated practice
-- To from chunks:
+- To form chunks:
 	- Focus on the idea
 	- Understand the idea
 	- Practice the idea
 - *Simple recall, or trying to think of the information without the text, is a great way to help form chunks.*
 - *A little bit every day is the best approach for technical fields*
 - *If you're having trouble with a problem, step away and let diffuse mode work*
+
+## [[2023-11-26]]
+- Two modes of thinking: focused and diffuse mode
+- Focused mode gets information into the brain, diffuse mode processes that information at a high level.
+- The Einstuling effect is when you get stuck on a problem because you're focusing on the wrong solution.
+- Switching between focused and diffuse mode helps combat Einstuling
+- It is okay to not get something the first time you focus on it.
+- There are two forms of memory: Working memory and long-term memory
+- Working memory is limited to 4 items and they need to constantly be maintained.
+- Long-term memory can hold many items but they need to be initialized with work and maintained.
+- **To get information from working memory to long-term memory use spaced repetition.**
+- **Pomodoro. 25 work 5 break.**
+- Sleep is useful for memory:
+	- It helps form the normal neural connections 
+	- It helps figure out the why of information
+	- It strengthens key ideas and prunes waste
+- Chunks are formed by creating neural connections through practice
+- To create a chunk:
+	- Focus on the idea
+	- Understand the idea
+	- Practice the idea
+- **Simple recall, thinking of info without text, is a method for creating chunks.**
+- **A little bit every day is the best approach for technical fields**
+- **We procrastinate because we feel uncomfortable, but it hurts us in the long run.** 
+- **Procrastination might not feel harmful in the moment but the long-term effects can be damaging.** 
