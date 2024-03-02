@@ -6,3 +6,5 @@
 | 2/27/2024 | 10mi     | 0:41:32 | Right calf tight for first 2.5 miles |         |      |             |
 | 2/28/2024 | 10.01mi  | 39:26   | Right calf tight                     | 64      | 156  | 85.5        |
 | 2/29/2024 |          |         | Light/Rest day                       |         |      |             |
+| 3/1/2024  |          |         | Right achilles sore. Rest day        |         |      |             |
+|           |          |         |                                      |         |      |             |
