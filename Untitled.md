@@ -1,0 +1,1 @@
+pre-switch to Swampert, Screech x4, Perrserker, Screech x2, Metronome, Iron Head
