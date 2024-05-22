@@ -102,3 +102,31 @@ What to do?
 	Check if correct value
 	Check if should be in the data set 
 	Always investigate outliers
+
+Discrete probability distributions
+Frequency: how many occurrences of the value
+Relative Frequency: how many occurrences of the value out of all occurrences 
+Cumulative Frequency: sum of how many occurrences of the value and values that are less
+Cumulative Relative Frequency: sum of how many occurrences of the value and values that are less out of all possible occurrences 
+
+Continuous probability distributions
+Given by the probability of a value being in a certain range.
+The probability is the area under the graph of the probability density function
+ 
+Normal distribution is key to statistical inference
+Characteristics of a normal distribution
+ - 0 skew
+ - Unimodal
+ - Mean = Median = Mode
+ - AUC = 1
+Empirical Rule for normal distribution
+- 68% of values within 1 SD of mean
+- 95% within 2 SD of mean
+- 99.7% within 3 SD of mean
+- mainly used for quick rough analysis
+
+Standard Normal
+- Mean of 0 and SD of 1 
+- All normal distributions can be converted into standard normal distributions
+- Has a table with calculated probability distributions 
+- Converted using z-scores $z = \frac{x-\mu}{\sigma}$
