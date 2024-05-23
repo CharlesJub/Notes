@@ -130,3 +130,13 @@ Standard Normal
 - All normal distributions can be converted into standard normal distributions
 - Has a table with calculated probability distributions 
 - Converted using z-scores $z = \frac{x-\mu}{\sigma}$
+
+
+
+# 4 - Sampling Distributions
+## PDF 
+![[4 - Sampling Distributions.pdf]]
+## Notes
+
+
+#
