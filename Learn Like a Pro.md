@@ -11,6 +11,9 @@ Be aware of minor discomforts being the reason for your procrastination
 
 
 # Chapter 2 
-Learning is going back and forth between focused and diffuse modes of thinking. 
-Focused mode is setting the pavement and diffuse mode going over it with a roller. 
-To go into diffuse mode do a mindless task.
+Two modes of learning: Focused and Diffuse.
+Focused is thinking about the information your trying to learn.
+Diffuse mode is giving your brain time to work in the background. 
+Learning is about going between the two modes 
+It can help to start at the hardest point and let you mind work in the background
+# Chapter 3
