@@ -47,3 +47,17 @@ To memorize information test yourself through active recall and use memory trick
 - Vivid images
 - Memory Palace
 Metaphors are great for memory because they create links and force you to actively think about what an idea is or is not. 
+# Chapter 6
+To types of learning: declarative and procedural
+Declarative helps you start learning a topic
+Procedural allows you to use what you've learned to handle the topics more intuitively
+Practice helps you develop procedural sets of links in long-term memory
+Internalize the procedures for solving scientific or mathematical problems
+# Chapter 7
+Discipline is a finite resource everyday
+The best way to maximize self-discipline is to reduce the amount a task will take. 
+- Make the task easier
+- Remove distractions 
+- Change existing bad habits by finding the cue and changing the response to it 
+Plan your goals with a simple When, where, and how will you complete them. Also identify any obstacles that may occur and how to deal with them
+Involve other in your work to keep yourself accountable
