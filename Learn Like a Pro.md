@@ -27,3 +27,23 @@ Learning over a longer period of time ensures the connections are strong
 Make sure the content you are working on is challenging 
 Make connections to things you already know to improve learning
 # Chapter 4
+Working memory is only temporary storage for thoughts and ideas. To truly retain information you need to be able to move the information to long-term memory
+You can only hold four pieces of information in your short-term memory at a time.
+You can hold more info in your short-term memory by creating sets of linked information
+To maximize short-term memory:
+- Break material into chunks.
+- Make info more understandable
+- Make a task list to clear working memory
+- Use paper to extend working memory
+To take good notes:
+- Use split notes (left side big idea, right side more detailed)
+- Do review of the notes at the end of the day you take them
+- Try to actively recall the key ideas
+# Chapter 5
+Memory is important to save time and reduce impact on working memory
+To memorize information test yourself through active recall and use memory tricks:
+- Acronyms
+- Sentences
+- Vivid images
+- Memory Palace
+Metaphors are great for memory because they create links and force you to actively think about what an idea is or is not. 
