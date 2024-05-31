@@ -61,3 +61,24 @@ The best way to maximize self-discipline is to reduce the amount a task will tak
 - Change existing bad habits by finding the cue and changing the response to it 
 Plan your goals with a simple When, where, and how will you complete them. Also identify any obstacles that may occur and how to deal with them
 Involve other in your work to keep yourself accountable
+# Chapter 8
+Motivation is something that you can build with techniques
+The best ways to motivate vary from person to person and even interpersonally 
+Remind yourself of the benefits of completing the task
+Reward yourself for completing a task. Make sure it doesn't conflict with another goal 
+Make sure the task has a god balance of being challenging, but not so much so that you are discouraged from continuing 
+Use mental contrasting
+- Positively by thinking of the ways your life will be better after completing the goal
+- Negatively by thinking of the ways that you life was worse before working towards the goal
+Make SMART goals
+- Specific
+- Measurable
+- Ambitious
+- Realistic
+- Time-limited
+Work with people who share similar goals
+# Chapter 9
+Being a good reader isn't about speed, it is about understanding and remembering 
+Preview the material 
+Don't just highlight and re-read
+Use recall: read a page, try to summarize key ideas, look away from page and try to recall key ideas on the page from memory, re-read if you missed anything 
